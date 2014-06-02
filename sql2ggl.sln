@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FillGoogleDoc", "FillGoogleDoc\FillGoogleDoc.csproj", "{DE614187-AB99-4E9B-871D-1D69D2B7057E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Props", "Props\Props.csproj", "{B50157CC-B96F-478F-A16C-7FC36FBE506E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mysql2csv", "Mysql2csv\Mysql2csv.csproj", "{D1E782F2-FCA4-44FE-B6F7-26D42FCA1C23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE614187-AB99-4E9B-871D-1D69D2B7057E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE614187-AB99-4E9B-871D-1D69D2B7057E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE614187-AB99-4E9B-871D-1D69D2B7057E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE614187-AB99-4E9B-871D-1D69D2B7057E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B50157CC-B96F-478F-A16C-7FC36FBE506E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50157CC-B96F-478F-A16C-7FC36FBE506E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50157CC-B96F-478F-A16C-7FC36FBE506E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50157CC-B96F-478F-A16C-7FC36FBE506E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E782F2-FCA4-44FE-B6F7-26D42FCA1C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E782F2-FCA4-44FE-B6F7-26D42FCA1C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E782F2-FCA4-44FE-B6F7-26D42FCA1C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E782F2-FCA4-44FE-B6F7-26D42FCA1C23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
